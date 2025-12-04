@@ -3,6 +3,7 @@
 End-to-end Customer 360 project applying SQL Azure, RFM modeling, VBA automation, and Power BI dashboards to analyze customer behavior and segmentation.
 
 **SQL Azure • VBA Automation • Power BI Dashboard**
+**Link Power BI:** https://drive.google.com/drive/folders/1kMQsT0sWNI8yeDNsUkafuIdG8JQpnjgK
 
 🔍 **1. Project Overview**
 
